@@ -1,0 +1,12 @@
+com.example.android.app-main-0 /Users/liuf/Documents/tabacoapp/android/android/app/src/main/res
+com.example.android.app-release-1 /Users/liuf/Documents/tabacoapp/android/android/app/src/release/res
+com.example.android.app-pngs-2 /Users/liuf/Documents/tabacoapp/android/build/app/generated/res/pngs/release
+com.example.android.app-resValues-3 /Users/liuf/Documents/tabacoapp/android/build/app/generated/res/resValues/release
+com.example.android.app-rs-4 /Users/liuf/Documents/tabacoapp/android/build/app/generated/res/rs/release
+com.example.android.app-mergeReleaseResources-5 /Users/liuf/Documents/tabacoapp/android/build/app/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.example.android.app-mergeReleaseResources-6 /Users/liuf/Documents/tabacoapp/android/build/app/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.example.android.app-merged_res-7 /Users/liuf/Documents/tabacoapp/android/build/app/intermediates/merged_res/release
+com.example.android.app-jetified-window-1.0.0-beta04-8 /Users/liuf/gradle-cache/caches/transforms-3/25cee5f028ac2a6b79fd6278ff5b59e2/transformed/jetified-window-1.0.0-beta04/res
+com.example.android.app-jetified-annotation-experimental-1.1.0-9 /Users/liuf/gradle-cache/caches/transforms-3/6c0c163cc77ae6c91f9f7dfcd179c29c/transformed/jetified-annotation-experimental-1.1.0/res
+com.example.android.app-core-1.6.0-10 /Users/liuf/gradle-cache/caches/transforms-3/7e9df2ac2213a6bd3cef0f2f27870d79/transformed/core-1.6.0/res
+com.example.android.app-jetified-window-java-1.0.0-beta04-11 /Users/liuf/gradle-cache/caches/transforms-3/ae81e06d24c799147c26814497a2a305/transformed/jetified-window-java-1.0.0-beta04/res

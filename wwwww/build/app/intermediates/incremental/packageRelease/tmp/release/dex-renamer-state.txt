@@ -1,0 +1,4 @@
+#Fri Dec 01 21:02:32 KST 2023
+base.0=/Users/liuf/Documents/tabacoapp/android/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
